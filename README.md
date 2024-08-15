@@ -78,7 +78,3 @@ The data provided includes:
 ## 🌿 Results and Conclusion
 The dashboard will provide a clear and interactive way to monitor customer retention metrics, visualize demographic data, and identify trends that indicate potential churn. By utilizing these insights, PhoneNow can implement proactive strategies to enhance customer retention and reduce churn.
 
-#### Author: Ira Safonik
-#### Date: August 2024
-##### Feel free to adjust the details to better fit the specifics of your project and tools used.
-
