@@ -47,6 +47,34 @@ The data provided includes:
 ### 3️⃣ Step 3: Report Findings
 - Draft a concise email to the engagement partner summarizing the findings from the dashboard and suggest actionable changes based on the insights.
 
+## Dashboard👇
+![Screenshot_1](https://github.com/user-attachments/assets/1e79aeda-b897-4d31-ac2c-4b702dbf9ff6)
+![Screenshot_2](https://github.com/user-attachments/assets/3fc13e09-0d8e-41c2-ae25-ab650cbb391d)
+![Screenshot_3](https://github.com/user-attachments/assets/19ce8125-688e-4dbf-b0fc-bf2cfaa59902)
+
+## 🌟Insights:
+- **High Churn Rate:** The overall churn rate is 27%, which is significantly high and indicates a serious retention problem.
+- **Customer Base:** There are 7,043 total customers, generating yearly charges of $16.1 million.
+- **Demographics:** 36% of customers are Dependents, 25% are Empty Nesters, 22% are Singles, and 17% are Retirees.
+- **Service Distribution:** 50.03% of customers have Multiple Lines, while 49.97% have Phone services only.
+- **Internet Services:** Fiber optic internet appears to have the highest churn rate among internet service types.
+- **Contract Types:** Month-to-month contracts show a significantly higher churn rate compared to one-year or two-year contracts.
+- **Payment Methods:** Electronic check payments are associated with a higher churn rate than other payment methods.
+- **Customer Risk:** There are 1,869 customers identified as "at risk" of churning.
+
+## 🚀Recommendations:
+1. **Implement Predictive Analytics:** Develop a machine learning model to identify high-risk customers before they churn, using the existing "Customers at Risk" metric as a starting point.
+2. **Targeted Retention Strategies:** Create specific retention programs for each demographic segment, particularly focusing on Dependents and Empty Nesters who make up 61% of the customer base.
+3. **Long-term Contract Incentives:** Develop campaigns to encourage customers to switch from month-to-month to longer-term contracts, potentially offering discounts or additional services.
+4. **Fiber Optic Service Improvement:** Investigate the reasons for high churn in fiber optic internet customers and implement service improvements or customer support initiatives to address issues.
+5. **Payment Method Optimization:** Encourage customers to switch from electronic check payments to other methods with lower churn rates, possibly by offering incentives or highlighting the benefits of alternative payment options.
+6. **Service Bundling:** Analyze the impact of multiple services on customer retention and create attractive bundle offers to increase service adoption and reduce churn.
+7. **Proactive Customer Engagement:** Implement a proactive outreach program for the 1,869 customers identified as "at risk," offering personalized retention offers or addressing potential issues before they lead to churn.
+8. **Customer Journey Mapping:** Create visual representations of the customer journey to identify pain points and opportunities for improving customer experience across all touchpoints.
+9. **Churn Dashboard Enhancement:** Expand the current dashboard to include more detailed churn prediction metrics, customer lifetime value calculations, and segment-specific retention rates.
+10. **Regular Churn Analysis:** Establish a routine (e.g., monthly) for analyzing churn patterns, updating predictive models, and adjusting retention strategies based on new insights.
+
+
 ## 🌿 Results and Conclusion
 The dashboard will provide a clear and interactive way to monitor customer retention metrics, visualize demographic data, and identify trends that indicate potential churn. By utilizing these insights, PhoneNow can implement proactive strategies to enhance customer retention and reduce churn.
 
